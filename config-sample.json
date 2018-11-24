@@ -1,0 +1,10 @@
+{
+  "http_port": "3000",
+  "access_token": "",
+  "host": "localhost",
+  "mysql_or_sqlite": "sqlite",
+  "db": "slamoji",
+  "db_user": "root",
+  "db_password": "root",
+  "slack_token": ""
+}

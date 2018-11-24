@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slamoji-pipe", "slamoji-pipe\slamoji-pipe.csproj", "{ED6FD0FC-1522-4597-9C5A-A96A619A69C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6FD0FC-1522-4597-9C5A-A96A619A69C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6FD0FC-1522-4597-9C5A-A96A619A69C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6FD0FC-1522-4597-9C5A-A96A619A69C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6FD0FC-1522-4597-9C5A-A96A619A69C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
