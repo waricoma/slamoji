@@ -21,8 +21,9 @@ or
 ### build.properties
 `sbt.version = 1.2.6`  
 ### assembly.sbt
-`addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.8")`
+`addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.8")`  
+`sbt assembly` or `sbt run`
 
-# slamoji-pipe
+## slamoji-pipe
 
-# slamoji-c4d
+## slamoji-c4d
